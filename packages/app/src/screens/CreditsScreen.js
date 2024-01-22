@@ -15,6 +15,11 @@ export default function CreditsScreen() {
       icon: 'music',
     },
     {
+      name: 'Nikiforos Kafetsios',
+      link: 'mailto:Nikiforoskafetsios@gmail.com ',
+      icon: 'alpha-n',
+    }, 
+    {
       name: 'react-navigation',
       link: 'https://reactnavigation.org/docs/getting-started/',
       icon: 'code-tags',
